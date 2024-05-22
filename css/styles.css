@@ -43,6 +43,21 @@ h1 {
   padding: 15px;
 }
 
+.call-button {
+  border-radius: 90px;
+  cursor: pointer;
+  background-color: rgb(79, 193, 79);
+  font-family: "Montserrat", sans-serif;
+  height: 80px;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  border: none;
+  font-size: 24px;
+}
+
 input[type="button"] {
   border-radius: 20px;
   cursor: pointer;
